@@ -1,14 +1,16 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: "Selah"
+subtitle: "80' Cheoy Lee · Knoxville to New York"
+image: assets/img/portfolio/selah.jpg
+alt: Selah 80ft Cheoy Lee
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Selah
+  subtitle: 80' Cheoy Lee · Knoxville to New York
+  thumbnail: assets/img/portfolio/selah.jpg
 ---
+20,000-mile delivery from Knoxville to New York.
+
 Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
 
 {:.list-inline}
