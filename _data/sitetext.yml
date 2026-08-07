@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Professional Boat Care & Delivery
-    text: Peace of mind on the water — and when you’re away
+    text: Peace of mind on the water and when you’re away
     button: Our Services
     buttonlink: "#services"
 
@@ -25,7 +25,7 @@ en: &DEFAULT_EN
         desc: "Regular inspections, systems checks, and upkeep while you’re away so your vessel stays ready and protected."
         icon: fas fa-clipboard-check
       - title: "Docking Lessons"
-        desc: "Hands-on coaching to build confidence docking in real conditions — tight slips, current, wind, and more."
+        desc: "Hands-on coaching to build confidence docking in real conditions tight slips, current, wind, and more."
         icon: fas fa-anchor
       - title: "Mechanical Walkthroughs"
         desc: "Detailed system reviews and owner education so you understand your boat’s systems and maintenance needs."
