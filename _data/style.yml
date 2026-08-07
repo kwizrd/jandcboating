@@ -1,5 +1,5 @@
 #Color Customization
-highlight: "#0D9488"          # Key West turquoise / tropical teal (main accent)
+highlight: "#00B8E0"          # Vivid Key West Blue (main accent)
 #white: "#FFFFFF"
 #black: "#1E293B"             # Optional: slightly softer near-black
 
@@ -19,3 +19,6 @@ contact-image: "../img/map-image.png"    # Or a local chart / marina map image
 #Slightly greener
 #Sunset gold accent#F59E0B
 #Warm alternative if you prefer sunset vibe
+00B8E0
+
+old #0D9488"          # Key West turquoise / tropical teal (main accent)
